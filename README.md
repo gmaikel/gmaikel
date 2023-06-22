@@ -1,4 +1,5 @@
 #   Welcome to my open-source home, I'm Maikel 👋
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 
 Here are some ideas to get you started:
 
