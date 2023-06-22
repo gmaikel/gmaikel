@@ -2,6 +2,7 @@
 <h3 align="center">A passionate artificial intelligence engineer from Paris.</h3>
 
 - 🔭 I’m currently working on **System for predicting real estate auction results**
+- 🛰️ I'm computer vision engineer at Airbus Defence and Space, **specializing in detecting objects in satellite images**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
