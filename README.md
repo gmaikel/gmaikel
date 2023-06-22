@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my open-source home, I'm Maikel 👋</h1>
 <h3 align="center">A passionate artificial intelligence from Paris</h3>
 
-- 🔭 I’m currently working on **test**
+- 🔭 I’m currently working on **System for predicting real estate auction results**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
