@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my open-source home, I'm Maikel 👋</h1>
 <h3 align="center">A passionate artificial intelligence engineer from Paris.</h3>
 
-- ![image](https://github.com/gmaikel/gmaikel/assets/77993585/54c99c35-bd60-46d8-b13d-85d1382db8d5) I’m currently working on **System for predicting real estate auction results**
+- 🔨 I’m currently working on **System for predicting real estate auction results**
 - 🛰️ I'm a computer vision engineer at Airbus Defence and Space, **specializing in detecting objects in satellite images**
 
 <h3 align="left">Connect with me:</h3>
