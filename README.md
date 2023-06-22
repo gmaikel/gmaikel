@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my open-source home, I'm Maikel 👋</h1>
-<h3 align="center">A passionate artificial intelligence engineer from Paris.</h3>
+<h3 align="center">A passionate artificial intelligence Engineer from Paris.</h3>
 
 - 🔨 I’m currently working on **System for predicting real estate auction results**
 - 🛰️ I'm a computer vision engineer at Airbus Defence and Space, **specializing in detecting objects in satellite images**
