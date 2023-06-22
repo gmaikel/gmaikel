@@ -1,4 +1,4 @@
-                                                              ### Welcome to my open-source treasure 👋
+                                                              # Welcome to my open-source treasure 👋
 -----
 
 **gmaikel/gmaikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
