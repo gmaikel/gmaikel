@@ -3,7 +3,9 @@
 
 - 🔨 I’m currently working on **System for predicting real estate auction results**
 - 🛰️ I'm a computer vision engineer at Airbus Defence and Space, **specializing in detecting objects in satellite images**
+- 🔎 I enjoy exploring and learning
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maikel-gali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maikel-gali/" height="30" width="40" /></a>
